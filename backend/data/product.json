@@ -1,0 +1,33 @@
+[
+    {
+        "name":"aasdfdsfdsfdsssssssssssss",
+        "price":"33",
+        "description":"fgfdgdgddfffffffffffffffffffffffffffffffdfddddddddddddd",
+        "rating":4.5,
+        "images":[{
+            "public_id":"434",
+            "url":"ffgdfgdgdfssssssssss"
+        }],
+        "category":"Electronics",
+        "seller":"fdsfdsfdsfds",
+        "stock":50,
+        "numOfReview":30,
+        "review":[]
+    },
+    {
+        "name":"aa",
+        "price":"33",
+        "description":"fgfdgdgd",
+        "rating":4.5,
+        "images":[{
+            "product_id":"434",
+            "url":""
+        }],
+        "category":"Electronics",
+        "seller":"",
+        "stock":50,
+        "numOfReview":30,
+        "review":[]
+
+    }
+]
